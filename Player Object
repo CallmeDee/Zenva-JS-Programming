@@ -54,11 +54,7 @@
         }
       ];
 
-      /*
-      CHALLENGE SOLUTION
-      */
-
-      //the player object
+          //the player object
       var player = {
         x: 10,
         y: 160,
